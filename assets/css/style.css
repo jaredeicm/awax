@@ -23,6 +23,7 @@ header {
 }
 .logo {
   margin-right: 20px;
+  margin-left: 20px;
 }
 .menu {
   flex: 1;
